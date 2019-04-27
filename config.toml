@@ -6,6 +6,11 @@ publishDir = "docs"
 SectionPagesMenu = "main"
 googleAnalytics = "UA-36560094-5"
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
   show_reading_time = true
   twitter = "https://twitter.com/digitalronin"
