@@ -2,7 +2,7 @@ server:
 	hugo server -D
 
 build:
-	hugo
+	HUGO_ENV=production hugo
 
 # Remove 'draft: true' from front-matter of new post
 # before publishing

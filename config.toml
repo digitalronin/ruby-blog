@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "DigitalRonin Ruby"
 theme = "ananke"
 publishDir = "docs"
+googleAnalytics = "UA-36560094-5"
 
 [params]
 featured_image = "/images/jeremy-thomas-75753-unsplash.jpg"
