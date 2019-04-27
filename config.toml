@@ -6,5 +6,8 @@ publishDir = "docs"
 googleAnalytics = "UA-36560094-5"
 
 [params]
-featured_image = "/images/jeremy-thomas-75753-unsplash.jpg"
-show_reading_time = true
+  show_reading_time = true
+  twitter = "https://twitter.com/digitalronin"
+  github = "https://github.com/digitalronin"
+  featured_image = "/images/jeremy-thomas-75753-unsplash.jpg"
+  recent_posts_number = 3
