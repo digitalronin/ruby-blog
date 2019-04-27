@@ -1,7 +1,6 @@
 ---
 title: "My First Post"
 date: 2019-04-27T13:22:54+01:00
-draft: true
 ---
 
 # This is a post
