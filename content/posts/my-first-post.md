@@ -12,4 +12,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Se
 
 Lorem ipsum dolor sit amet elit pharetra tincidunt feugiat nisl imperdiet.
 
+### Code sample
+
+{{<highlight ruby>}}
+#!/usr/bin/env ruby
+
+total = 0.0
+count = 0
+
+while line = gets
+  total += line.to_f
+  count += 1
+end
+
+puts total/count
+{{</highlight>}}
 
