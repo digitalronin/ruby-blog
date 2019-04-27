@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "DigitalRonin Ruby"
 theme = "ananke"
 publishDir = "docs"
+SectionPagesMenu = "main"
 googleAnalytics = "UA-36560094-5"
 
 [params]
