@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://ruby.digitalronin.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "DigitalRonin Ruby"
 theme = "ananke"
 publishDir = "docs"
