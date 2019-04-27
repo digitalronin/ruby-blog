@@ -3,8 +3,13 @@ languageCode = "en-us"
 title = "DigitalRonin Ruby"
 theme = "ananke"
 publishDir = "docs"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
+Paginate = 5
 googleAnalytics = "UA-36560094-5"
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "weekly"
