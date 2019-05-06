@@ -3,12 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ruby.digitalronin.com/categories/</loc>
+    <loc>https://ruby.digitalronin.com/</loc>
+    <lastmod>2019-05-04T11:44:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruby.digitalronin.com/</loc>
+    <loc>https://ruby.digitalronin.com/posts/largest-value-nested-hash/</loc>
+    <lastmod>2019-05-04T11:44:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruby.digitalronin.com/posts/</loc>
+    <lastmod>2019-05-04T11:44:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruby.digitalronin.com/categories/</loc>
     <priority>0</priority>
   </url>
   

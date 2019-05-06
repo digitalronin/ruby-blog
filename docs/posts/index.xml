@@ -6,19 +6,21 @@
     <description>Recent content in Posts on DigitalRonin Ruby</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 13:22:54 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 11:44:09 +0100</lastBuildDate>
     
 	<atom:link href="https://ruby.digitalronin.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://ruby.digitalronin.com/posts/my-first-post/</link>
-      <pubDate>Sat, 27 Apr 2019 13:22:54 +0100</pubDate>
+      <title>Largest Value Nested Hash</title>
+      <link>https://ruby.digitalronin.com/posts/largest-value-nested-hash/</link>
+      <pubDate>Sat, 04 May 2019 11:44:09 +0100</pubDate>
       
-      <guid>https://ruby.digitalronin.com/posts/my-first-post/</guid>
-      <description>This is a post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor.
-This is a sub-heading Lorem ipsum dolor sit amet elit pharetra tincidunt feugiat nisl imperdiet.</description>
+      <guid>https://ruby.digitalronin.com/posts/largest-value-nested-hash/</guid>
+      <description>I came across this question on the Ruby Reddit the other day:
+ How do I select the largest key: value pair in a nested hash?
+ The problem specifies a hash of data, which I&amp;rsquo;ll include in full in the gist containing my solution. Omitting data we don&amp;rsquo;t care about, and removing repetitions, the hash is structured like this:
+game_hash = { home: { players: { player1: { shoe_size: 16, rebounds: 12, .</description>
     </item>
     
   </channel>
