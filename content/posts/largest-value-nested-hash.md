@@ -1,7 +1,6 @@
 ---
 title: "Largest Value Nested Hash"
 date: 2019-05-04T11:44:09+01:00
-draft: true
 ---
 
 I came across this question on the [Ruby Reddit][] the other day:
